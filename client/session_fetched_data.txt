@@ -1,0 +1,75 @@
+MISSION_INFO
+MISSION_START || 2020-06-13 04:34:45.308266
+MISSION_END || 2020-06-13 04:34:45.308266
+VEHICLE_NAME || Car1
+VEHICLE_MATRICULE || gdfsgdfsgsd
+DATA
+RECORD_TIME || 2020-06-13 04:34:45.308297
+b'0103' || Fuel System Status || None
+b'0104' || Calculated Engine Load || 0.0 percent
+b'0105' || Engine Coolant Temperature || 83 degC
+b'010B' || Intake Manifold Pressure || 115 kilopascal
+b'010C' || Engine RPM || 4180.0 revolutions_per_minute
+b'010D' || Vehicle Speed || 76.0 kph
+b'010F' || Intake Air Temp || 28 degC
+b'0110' || Air Flow Rate (MAF) || 13.11 gps
+b'011F' || Engine Run Time || 140.0 second
+b'0121' || Distance Traveled with MIL on || 0.0 kilometer
+b'0133' || Barometric Pressure || 101 kilopascal
+b'0151' || Fuel Type || Gasoline
+DATA
+RECORD_TIME || 2020-06-13 04:34:45.817025
+b'0103' || Fuel System Status || None
+b'0104' || Calculated Engine Load || 0.0 percent
+b'0105' || Engine Coolant Temperature || 83 degC
+b'010B' || Intake Manifold Pressure || 115 kilopascal
+b'010C' || Engine RPM || 4160.0 revolutions_per_minute
+b'010D' || Vehicle Speed || 72.0 kph
+b'010F' || Intake Air Temp || 28 degC
+b'0110' || Air Flow Rate (MAF) || 13.11 gps
+b'011F' || Engine Run Time || 140.0 second
+b'0121' || Distance Traveled with MIL on || 0.0 kilometer
+b'0133' || Barometric Pressure || 101 kilopascal
+b'0151' || Fuel Type || Gasoline
+DATA
+RECORD_TIME || 2020-06-13 04:34:46.327011
+b'0103' || Fuel System Status || None
+b'0104' || Calculated Engine Load || 0.0 percent
+b'0105' || Engine Coolant Temperature || 83 degC
+b'010B' || Intake Manifold Pressure || 115 kilopascal
+b'010C' || Engine RPM || 4140.0 revolutions_per_minute
+b'010D' || Vehicle Speed || 68.0 kph
+b'010F' || Intake Air Temp || 28 degC
+b'0110' || Air Flow Rate (MAF) || 13.11 gps
+b'011F' || Engine Run Time || 140.0 second
+b'0121' || Distance Traveled with MIL on || 0.0 kilometer
+b'0133' || Barometric Pressure || 101 kilopascal
+b'0151' || Fuel Type || Gasoline
+DATA
+RECORD_TIME || 2020-06-13 04:34:46.836692
+b'0103' || Fuel System Status || None
+b'0104' || Calculated Engine Load || 0.0 percent
+b'0105' || Engine Coolant Temperature || 83 degC
+b'010B' || Intake Manifold Pressure || 115 kilopascal
+b'010C' || Engine RPM || 4120.0 revolutions_per_minute
+b'010D' || Vehicle Speed || 64.0 kph
+b'010F' || Intake Air Temp || 28 degC
+b'0110' || Air Flow Rate (MAF) || 13.11 gps
+b'011F' || Engine Run Time || 140.0 second
+b'0121' || Distance Traveled with MIL on || 0.0 kilometer
+b'0133' || Barometric Pressure || 101 kilopascal
+b'0151' || Fuel Type || Gasoline
+DATA
+RECORD_TIME || 2020-06-13 04:34:47.345063
+b'0103' || Fuel System Status || None
+b'0104' || Calculated Engine Load || 0.0 percent
+b'0105' || Engine Coolant Temperature || 83 degC
+b'010B' || Intake Manifold Pressure || 115 kilopascal
+b'010C' || Engine RPM || 4100.0 revolutions_per_minute
+b'010D' || Vehicle Speed || 60.0 kph
+b'010F' || Intake Air Temp || 28 degC
+b'0110' || Air Flow Rate (MAF) || 13.11 gps
+b'011F' || Engine Run Time || 140.0 second
+b'0121' || Distance Traveled with MIL on || 0.0 kilometer
+b'0133' || Barometric Pressure || 101 kilopascal
+b'0151' || Fuel Type || Gasoline
